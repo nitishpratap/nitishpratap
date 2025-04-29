@@ -67,14 +67,6 @@ I have a proven track record of delivering high-quality backend solutions tailor
 ![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitishpratap&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitishpratap&layout=compact&theme=radical)
 
-
-![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitishpratap18&show_icons=true&theme=radical) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitishpratap18&layout=compact&theme=radical)
-
-
-![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitish-yadav-robomq&show_icons=true&theme=radical) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitish-yadav-robomq&layout=compact&theme=radical)
-
 ---
 
 
